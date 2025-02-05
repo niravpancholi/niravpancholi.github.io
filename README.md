@@ -3,7 +3,7 @@
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.5.
 
 ## How to deploy to GitHub Pages
-ng build --output-path docs --base-href /niravpancholi.github.io/
+ngh --dir=dist/nirav-angular-app/browser/
 
 ## Development server
 
