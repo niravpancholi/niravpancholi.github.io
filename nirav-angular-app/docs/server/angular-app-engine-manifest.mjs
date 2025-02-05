@@ -1,6 +1,6 @@
 
 export default {
-  basePath: '/',
+  basePath: '/niravpancholi.github.io',
   supportedLocales: {
   "en-US": ""
 },
